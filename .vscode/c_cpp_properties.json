@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Tugas Kuliah\\DPBO\\Proyek Simulasi Billiard\\Poncho-First-public-repo\\SFML-3.1.0\\include",
+                "C:\\Tugas Kuliah\\DPBO\\Proyek Simulasi Billiard\\Poncho-First-public-repo\\mingw64\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Tugas Kuliah\\DPBO\\Proyek Simulasi Billiard\\Poncho-First-public-repo\\mingw64\\bin\\g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
